@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Daily Flights</string>
+
+    <string name="activity_flight_detail">Flight detail</string>
+
+    <string name="book_flight">Book this flight</string>
+
+    <string name="flight_from">from</string>
+    <string name="flight_to">to</string>
+
+
+    <string name="price_from">from</string>
+    <string name="per_person">/ per person</string>
+    <string name="departure">Departure</string>
+    <string name="arrival">Arrival</string>
+    <string name="empty_subtitle">No flights available.</string>
+    <string name="empty_title">No results :(</string>
+    <string name="error_flights">Error downloading flights.</string>
+
+    <string name="format_price_from">€%d</string>
+    <string name="format_book_for">Book for €%d</string>
+
+</resources>
